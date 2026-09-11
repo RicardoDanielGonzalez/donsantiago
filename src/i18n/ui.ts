@@ -1,12 +1,12 @@
 export const ui = {
   en: {
-    "site.title": "Astro Blog",
+    "site.title": "Santiago Bovisio Teachings",
     "site.description": "Welcome to my website!",
     "nav.home": "Home",
     "nav.about": "About",
     "nav.twitter": "Twitter",
     "home.welcome": "Welcome to my website",
-    "about.title": "About me",
+    "about.title": "About Santiago Bovisio",
     "about.description": "I'm a web developer and I love Astro!",
     "about.text": `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
 		labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo
